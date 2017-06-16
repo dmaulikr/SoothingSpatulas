@@ -74,7 +74,6 @@ const mapDispatchToProps = (dispatch) => ({
         userLoginInfo.photo_large = profile.extraInfo.picture_large;
       }
       
-      // console.log('PROFILE: ', profile)
       /* ----------------------------------------------------
         Firstly, check if this email is in the our DB or not.
         If it is in DB, get the userid and update Redux.
@@ -118,11 +117,10 @@ class Login extends Component {
         <Image 
           source={AssetMap.loginBackground} 
           style={styles.backgroundImage} 
-          blurRadius={1}
         />
         <View style={styles.middle}>
           <Text style={styles.welcome}>
-            Welcome to Momento!
+            Welcome to Momento
           </Text>
           <TouchableOpacity
             style={styles.button}

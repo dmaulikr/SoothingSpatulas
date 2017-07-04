@@ -1,17 +1,36 @@
 # MOMENTO
-
 Discover places near you and find others who share the same interests near you!
 
 ## Team
 
 - Chris Keating
-- Jack Ren
+- Shaowen Ren
 - Michael Sermersheim
 - Nick Anderson
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Feature Demos
+
+### View nearby check-in comments
+<img src="/demos/comments_display.gif?raw=true" width="300px">
+
+### Search place and leave text comment
+<img src="/demos/text_comments.gif?raw=true" width="300px">
+
+### Leave playable voice comment, and auto trancripted to text
+<img src="/demos/voice_comments.gif?raw=true" width="600px">
+
+### View trends
+<img src="/demos/trend.gif?raw=true" width="300px">
+
+### Chat with friends
+<img src="/demos/chat.gif?raw=true" width="300px">
+
+### View check-in history
+<img src="/demos/history.gif?raw=true" width="300px">
 
 # Table of Contents
 
